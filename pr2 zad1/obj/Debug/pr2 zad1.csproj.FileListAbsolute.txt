@@ -1,0 +1,10 @@
+C:\Users\305-12\Desktop\Угрюмова Пр-21\учебная практика\pr2 zad1\bin\Debug\pr2 zad1.exe.config
+C:\Users\305-12\Desktop\Угрюмова Пр-21\учебная практика\pr2 zad1\bin\Debug\pr2 zad1.exe
+C:\Users\305-12\Desktop\Угрюмова Пр-21\учебная практика\pr2 zad1\bin\Debug\pr2 zad1.pdb
+C:\Users\305-12\Desktop\Угрюмова Пр-21\учебная практика\pr2 zad1\obj\Debug\pr2 zad1.csproj.AssemblyReference.cache
+C:\Users\305-12\Desktop\Угрюмова Пр-21\учебная практика\pr2 zad1\obj\Debug\pr2_zad1.Form1.resources
+C:\Users\305-12\Desktop\Угрюмова Пр-21\учебная практика\pr2 zad1\obj\Debug\pr2_zad1.Properties.Resources.resources
+C:\Users\305-12\Desktop\Угрюмова Пр-21\учебная практика\pr2 zad1\obj\Debug\pr2 zad1.csproj.GenerateResource.cache
+C:\Users\305-12\Desktop\Угрюмова Пр-21\учебная практика\pr2 zad1\obj\Debug\pr2 zad1.csproj.CoreCompileInputs.cache
+C:\Users\305-12\Desktop\Угрюмова Пр-21\учебная практика\pr2 zad1\obj\Debug\pr2 zad1.exe
+C:\Users\305-12\Desktop\Угрюмова Пр-21\учебная практика\pr2 zad1\obj\Debug\pr2 zad1.pdb
